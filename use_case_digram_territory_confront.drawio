@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T18:06:18.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="J5cydHDst9axLgVzcZWV" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T18:06:58.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Lc2vfKVELI1v62m7Si7K" version="24.4.3" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1789" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-1" value="Attacker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="70" width="30" height="60" as="geometry" />
+          <mxGeometry x="-440" y="59" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Uk2T7mxiOLwB1u4Iwqyp-2" target="Uk2T7mxiOLwB1u4Iwqyp-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="120" y="54" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-3" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="170" width="30" height="60" as="geometry" />
+          <mxGeometry x="-600" y="119" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-5" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-340" y="-90" width="400" height="380" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-6" value="Defender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="-440" y="175" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bihswKahKPhdLvbX0uiN-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bihswKahKPhdLvbX0uiN-1" target="Uk2T7mxiOLwB1u4Iwqyp-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
