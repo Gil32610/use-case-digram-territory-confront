@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T12:21:05.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="dmQNWpBI5A9Bhh0gST0P" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T18:01:27.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="DFlTb8ohMxBq5HyNkeat" version="24.4.3" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1457" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Uk2T7mxiOLwB1u4Iwqyp-2" target="Uk2T7mxiOLwB1u4Iwqyp-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-2" value="&lt;div&gt;&amp;lt;&amp;lt;system&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;War Game Move Validator&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-2" value="&lt;div&gt;War Game Move Validator&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-3" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -79,22 +79,22 @@
         <mxCell id="Uk2T7mxiOLwB1u4Iwqyp-6" value="Defender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-440" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bihswKahKPhdLvbX0uiN-1" target="Uk2T7mxiOLwB1u4Iwqyp-19">
+        <mxCell id="bihswKahKPhdLvbX0uiN-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bihswKahKPhdLvbX0uiN-1" target="Uk2T7mxiOLwB1u4Iwqyp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bihswKahKPhdLvbX0uiN-1" target="Uk2T7mxiOLwB1u4Iwqyp-20">
+        <mxCell id="bihswKahKPhdLvbX0uiN-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bihswKahKPhdLvbX0uiN-1" target="Uk2T7mxiOLwB1u4Iwqyp-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-1" value="&lt;div&gt;&amp;lt;&amp;lt;system&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;War Game Initializer&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bihswKahKPhdLvbX0uiN-1" value="War Game Initializer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bihswKahKPhdLvbX0uiN-4" target="Uk2T7mxiOLwB1u4Iwqyp-10">
+        <mxCell id="bihswKahKPhdLvbX0uiN-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bihswKahKPhdLvbX0uiN-4" target="Uk2T7mxiOLwB1u4Iwqyp-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bihswKahKPhdLvbX0uiN-4" target="Uk2T7mxiOLwB1u4Iwqyp-27">
+        <mxCell id="bihswKahKPhdLvbX0uiN-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bihswKahKPhdLvbX0uiN-4" target="Uk2T7mxiOLwB1u4Iwqyp-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bihswKahKPhdLvbX0uiN-4" value="&lt;div&gt;&amp;lt;&amp;lt;system&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;War Game Combat Handler&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bihswKahKPhdLvbX0uiN-4" value="War Game Combat Handler" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
