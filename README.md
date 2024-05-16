@@ -34,25 +34,27 @@ Durante a fase de ataque de uma jogada, um jogador pode realizar ataques a terri
 14. Validador de jogada encerra fase de ataque
 
 ### Fluxo Alternativo:
-1. 
-    a: Jogador não possui território anunciado
+**Fluxo alternativo 1:**
+- a: Jogador não possui território anunciado
     1. Sistema anuncia que jogador não possui território selecionado
     1. Jogador seleciona território possuido
-
-    b: Jogador não possui mais de um exército em seu território selecionado:
+- b: Jogador não possui mais de um exército em seu território selecionado:
     1. Sistema anuncia que território possui quantidade de exércitos insuficientes para realizar o ataque
     1. Jogador seleciona um de seus territórios com mais de um exército para realizar ataque
-    
-    c: Jogador anuncia término do combate
+- c: Jogador anuncia término do combate
     1. Validador de jogada encerra fase de ataque
     1. Validador de jogada inicia próxima fase da rodada
 
-4. a: Jogador seleciona território que não está conectado a território de ataque:
+**Fluxo alternativo 4:**
+- a: Jogador seleciona território que não está conectado a território de ataque:
     1. Sistema anuncia que território alvo não está conectado ao território de ataque
     1. Jogador seleciona território alvo conectado ao território de ataque
-12. a: Validador de jogadas identifica que território alvo não possui exércitos
-    1. Validador de jogadas inicia fase de povoamento de território recentemente conquistado
-    1. Validador de jogadas retoma fase de ataque 
+
+
+**Fluxo alternativo 12:**
+1. Validador de jogadas identifica que território alvo não possui exércitos
+1. Validador de jogadas inicia fase de povoamento de território recentemente conquistado
+1. Validador de jogadas retoma fase de ataque 
 
 ## Pós Condições:
 - O número de territórios dos jogadores foram atualizados
